@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Play",
+    "name": "Geetglow",
     "slug": "Play",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.aamir09.Play"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bb7ebe36-c950-4ec0-8c2a-8d838ca783a7"
+      }
     }
   }
 }
